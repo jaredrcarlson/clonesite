@@ -1,0 +1,10 @@
+html{
+    background-color: rgb(28, 29, 28);
+}
+
+.hero{
+    background-image: url('https://w.forfun.com/fetch/8d/8d4325970b30c75ba3725808b802ebf1.jpeg');
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
